@@ -1,0 +1,36 @@
+.utalii_info, .utalii_success, .utalii_warning, .utalii_error {
+	margin: 5px 0px;
+	padding: 5px;
+}
+.utalii_info {
+	color: #00529B;
+	background-color: #BDE5F8;
+}
+.utalii_success {
+	color: #4F8A10;
+	background-color: #DFF2BF;
+}
+.utalii_warning {
+	color: #9F6000;
+	background-color: #FEEFB3;
+}
+.utalii_error {
+	color: #D8000C;
+	background-color: #FFBABA;
+}
+.utalii_booking_summary tr, .utalii_booking_summary th, .utalii_booking_summary td {
+    text-align: center;
+    padding: 5px !important;
+}
+td.right_align_cls {
+    text-align: right;
+}
+.utalii_booking_summary th {
+    background: #f5f5f5;
+}
+.utalii_booking_summary {
+    background: #fff;
+}
+td.remove_pading_cls {
+    padding: 0;
+}

@@ -1,0 +1,23 @@
+<?php
+require_once 'classes/location.php';
+require_once 'classes/gimb.php';
+require_once 'custom-objects/booking.php';
+require_once 'custom-objects/hotel.php';
+require_once 'custom-objects/room.php';
+require_once 'custom-objects/country.php';
+require_once 'custom-objects/state.php';
+require_once 'custom-objects/city.php';
+require_once 'add-assets/admin-end-assets.php';
+require_once 'add-assets/front-end-assets.php';
+require_once 'functions/load-locations.php';
+require_once 'classes/misc.php';
+require_once 'classes/hotel-search-class.php';
+require_once 'classes/activation.php';
+require_once 'classes/booking-email.php';
+require_once 'classes/template-loader.php';
+require_once 'shortcodes/hotel-search-sc.php';
+require_once 'shortcodes/my-bookings-sc.php';
+require_once 'functions/functions.php';
+require_once 'custom-objects/settings.php';
+require_once 'functions/ajax-calls.php';
+require_once 'functions/actions.php';
