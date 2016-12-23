@@ -13,17 +13,6 @@ will work more easily. One can comment on rooms and hotels.
 Admin panel is very easy and simple to use having all the booking details and
 other things to manage.
 
-For live testing go to this url:
-http://hotelreservationwp.com/
-username: demouser
-password: demouser
-
-
-For admin testing,
-http://hotelreservationwp.com/wp-admin
-username: demoadmin
-password: demoadmin
-
 Shortcodes:
 
 For hotel search form/widget:
